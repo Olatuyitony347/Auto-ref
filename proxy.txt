@@ -1,0 +1,2 @@
+http://username:password@proxy1:port
+http://username:password@proxy2:port

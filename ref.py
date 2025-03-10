@@ -13,9 +13,9 @@ from fake_useragent import UserAgent
 REFERRAL_LINK = "https://klokapp.ai?referral_code=FW486LV2"
 
 # Email settings (update accordingly)
-IMAP_SERVER = "imap.your-email-provider.com"  # Replace with your email provider
-EMAIL_USER = "your-email@example.com"
-EMAIL_PASS = "your-email-password"
+IMAP_SERVER = "imap.gmail.com"  # Replace with your email provider
+EMAIL_USER = "wakinjoseph351@gmail.com"
+EMAIL_PASS = "uqpd buce cjay rnac"
 
 # CAPTCHA solving (if required)
 TWO_CAPTCHA_API_KEY = "your-2captcha-api-key"

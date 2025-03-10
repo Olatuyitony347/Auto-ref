@@ -1,2 +1,3 @@
-# Auto-ref
-Auto ref for Projects
+`
+pip install requests selenium undetected-chromedriver fake-useragent twocaptcha
+`
